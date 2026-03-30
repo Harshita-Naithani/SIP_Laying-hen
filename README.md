@@ -242,8 +242,8 @@ Other filters included Average Enrichment threshold of 5 or more than 5 i.e. any
 ---
 
 ## Abbreviations: 
-PSM : Peptide Spectrum Match
-FDR : False Discovery Rate
+PSM : Peptide Spectrum Match;
+FDR : False Discovery Rate;
 MI : Myo-inositol
 
 ## Directory Structure
