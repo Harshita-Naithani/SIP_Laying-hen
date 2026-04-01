@@ -237,7 +237,7 @@ Other filters included Average Enrichment threshold of 5 or more than 5 i.e. any
 * Paths must be adapted to the local HPC environment
 * Job submission is handled via custom bash wrappers in Jupyter
 * File naming consistency (`SampleID.FT2`) is required
-* The config files and sipros files and scripts can be downloaded from : https://github.com/thepanlab/Sipros4
+* The config files and sipros files and scripts can be downloaded from : https://github.com/thepanlab/Sipros4 or from the "Files" folder in this repository 
 
 ---
 
